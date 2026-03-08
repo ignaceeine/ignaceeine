@@ -11,7 +11,6 @@ Je suis un développeur passionné par la création de solutions qui ont un impa
 - 🔭 Je travaille actuellement sur **...**
 - 🌱 J'approfondis mes connaissances en **IA**
 - 💬 Pose-moi des questions sur **...**
-- 📫 Comment me joindre : **ignaceeine@gmail.com**
 
 ---
 
