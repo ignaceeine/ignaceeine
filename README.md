@@ -1,4 +1,4 @@
-# Salut ! Moi c'est Djehouty 👋
+# Salut ! 👋
 
 ### Développeur logiciel
 
