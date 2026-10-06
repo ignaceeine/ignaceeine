@@ -11,7 +11,7 @@ I am a software developer who is passionate about creating solutions that make a
 | Category | Tools & Programmimg Languages |
 | :--- | :--- |
 | **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)|
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
 | **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
